@@ -1,0 +1,42 @@
+html{
+    background-color: #c4dbf6;
+}
+p{
+   color: rgb(35, 137, 184);
+   font-style: italic;
+   font-weight: bold;
+}
+li{
+   color: rgb(12, 66, 201);
+}
+a{
+    color: black;
+    display: block;   
+}
+.qz{
+    float: left;
+    margin-left: 20%;
+    background-color: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 40px;
+    height: 80px;
+    width: 80px;
+}
+.zq{
+    float: right;
+    margin-right: 20%;
+    background-color: red;
+    height: 20px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80px;
+    width: 80px;
+    border-radius: 40px;
+}
+.za{
+   width: 50px;
+}
